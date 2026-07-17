@@ -16,7 +16,7 @@ Los resultados se presentan en forma de tabla para facilitar su visualización.
 
 <br>
 
-**Ejecucion**
+**EJECUCION**
 
 Captura de pantalla de los diferentes escenarios ejecutados.
 
