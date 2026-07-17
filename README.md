@@ -1,10 +1,10 @@
 ***Actividad 2 - Flujo de Control Parte 2***
 
-*Descripción*
+**Descripción**
 
 Este programa fue desarrollado en C# utilizando bucles. Permite registrar las calificaciones de varios estudiantes, calcular su promedio y determinar si cada uno aprobó o reprobó según las notas ingresadas.
 
-*Funcionamiento*
+**Funcionamiento**
 
 El programa solicita al usuario la cantidad de estudiantes que desea registrar. Luego, para cada estudiante, pide su nombre y cuatro calificaciones. Con estos datos calcula el promedio y muestra el estatus correspondiente:
 
