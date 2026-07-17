@@ -8,9 +8,9 @@ Este programa fue desarrollado en C# utilizando bucles. Permite registrar las ca
 
 El programa solicita al usuario la cantidad de estudiantes que desea registrar. Luego, para cada estudiante, pide su nombre y cuatro calificaciones. Con estos datos calcula el promedio y muestra el estatus correspondiente:
 
-Aprobado: promedio mayor o igual a 70.
+*Aprobado*: promedio mayor o igual a 70.
 
-Reprobado: promedio menor a 70.
+*Reprobado*: promedio menor a 70.
 
 Los resultados se presentan en forma de tabla para facilitar su visualización.
 
