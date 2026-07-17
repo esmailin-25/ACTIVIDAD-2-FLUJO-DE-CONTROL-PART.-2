@@ -14,7 +14,7 @@ Reprobado: promedio menor a 70.
 
 Los resultados se presentan en forma de tabla para facilitar su visualización.
 
-## EJECUCION
+# EJECUCION
 
 Captura de pantalla de los diferentes escenarios ejecutados.
 
