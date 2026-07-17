@@ -20,13 +20,13 @@ Los resultados se presentan en forma de tabla para facilitar su visualización.
 
 Capturas de pantalla de los diferentes escenarios ejecutados.
 
+*Escenario 1:*
 <img width="1911" height="985" alt="Captura de pantalla 2026-07-17 072443" src="https://github.com/user-attachments/assets/59a39e7e-5653-4952-a67e-5647ea5cf521" />
 
-<br>
+*Escenario 2:*
 <img width="1892" height="879" alt="Captura de pantalla 2026-07-17 072318" src="https://github.com/user-attachments/assets/5514bf98-5c57-4cfe-9522-db4ecb84722c" />
 
-
-<br>
+*Escenario 3:*
 <img width="1344" height="916" alt="Captura de pantalla 2026-07-17 065709" src="https://github.com/user-attachments/assets/e0f9ba7b-63b3-4479-ba9f-b67d6f45570c" />
 
 
